@@ -36,7 +36,7 @@
     /* letter-spacing: 3px; */
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
-@media screen and (max-width: 600px) {
+/*@media screen and (max-width: 600px) {
     .container {
         margin: 10px; /* Adjusted margin for smaller screens */
         padding: 5px; /* Adjusted padding for smaller screens */
@@ -46,4 +46,4 @@
     .button {
         font-size: 14px; /* Adjusted font size for smaller screens */
     }
-}
+}*/
