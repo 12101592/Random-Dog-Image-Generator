@@ -24,7 +24,7 @@
 
 }
 .box{
-    /* height: 100px;; */
+    /* height: 100px; */
     background-color: aliceblue;
 }
 
@@ -39,7 +39,7 @@
 @media screen and (max-width: 524px) {
     .container {
         margin: auto; /* Adjusted margin for smaller screens */
-        padding: 5px; /* Adjusted padding for smaller screens */
+        padding: 10px; /* Adjusted padding for smaller screens */
         width:100%;
         height:100%
     }
